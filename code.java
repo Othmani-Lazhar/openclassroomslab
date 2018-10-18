@@ -1,2 +1,3 @@
-System.out.println("Hello Git");
+Strig message ="Hello Git from JAVA";
+System.out.println(message);
 
