@@ -1,1 +1,3 @@
-echo "hello Git " ;
+massage="last commit php code";
+
+echo message;
